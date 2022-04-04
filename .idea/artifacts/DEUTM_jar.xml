@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DEUTM:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DEUTM_jar</output-path>
+    <root id="archive" name="DEUTM.jar">
+      <element id="module-output" name="practical4-37847244" />
+    </root>
+  </artifact>
+</component>
